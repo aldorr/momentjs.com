@@ -2,12 +2,12 @@
 title: Require.js
 ---
 
-We strongly recomend reading
+We strongly recommend reading
 [this](https://github.com/requirejs/requirejs/issues/1554#issuecomment-226269905)
 if you plan to use moment with Require.js. Also upgrade to **2.14.0** or above
 for best experience.
 
-As a start, you might have aquired moment through bower or node_modules or
+As a start, you might have acquired moment through bower or node_modules or
 anything else that places moment.js together with a locales directory in a base
 folder. Then you should use a tool like
 [adapt-pkg-main](https://github.com/jrburke/adapt-pkg-main), or manually --
